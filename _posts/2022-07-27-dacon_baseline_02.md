@@ -384,7 +384,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![output_8_0](https://user-images.githubusercontent.com/110026001/181257819-d25c5d50-4bd0-448d-be56-4c90f2c41bb9.png)
     
 
 
