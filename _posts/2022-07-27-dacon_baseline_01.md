@@ -534,7 +534,7 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![png](C:\Users\naaye\아연\깃허브\Untitled1\output_9_0.png)
     
 
 
