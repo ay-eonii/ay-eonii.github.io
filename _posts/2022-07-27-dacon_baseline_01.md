@@ -534,7 +534,8 @@ plt.show()
 
 
     
-![png](C:\Users\naaye\아연\깃허브\Untitled1\output_9_0.png)
+![output_9_0](https://user-images.githubusercontent.com/110026001/181249137-81ebe1a8-ae16-4e89-bea4-e28b001519ff.png)
+
     
 
 
