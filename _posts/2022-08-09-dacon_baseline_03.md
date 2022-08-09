@@ -369,7 +369,7 @@ plt.show() # 신청하지 않은 사람들(0)이 신청한 사람들(1)에 비�
 
 
     
-![png](output_7_0.png)
+![output_7_0](https://user-images.githubusercontent.com/110026001/183614190-0896bed5-fc76-4837-bff5-665554dd3ae0.png)
     
 
 
